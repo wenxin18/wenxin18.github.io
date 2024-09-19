@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenxin HU"
+title                    : "TBD"
 title_separator          : "-"
-name                     : &name "Wenxin Hu"
+name                     : &name "TBD"
 description              : &description "personal description"
 url                      : https://wenxin18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenxin Hu"
+  name             : "TBD"
   avatar           : "pic_rl_scaled579.jpg"
   bio              : "PhD Student at University of Michigan <b>lwenxin@umich.edu </b>"
   location         : "Ann Arbor, MI"
